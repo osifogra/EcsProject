@@ -12,5 +12,7 @@ You will need to have [node] and [yarn] both installed on your machine to run th
 This a C# project so you will need to have Visual studio installed https://visualstudio.microsoft.com/downloads/
 
 •	Open the EcsDigitalProject.sln from qa-tech-test\src\test\e2e\EcsDigitalProject 
+
 •	Then you can run the test via “Test Explorer” window, if not displayed click on the Test-> Test Explorer.
+
 •	You should see two tests; one is located in the unitTest.cs file and the other has been implemented using POM.
